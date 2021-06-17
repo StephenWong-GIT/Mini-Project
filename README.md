@@ -1,2 +1,2 @@
-# Mini-Project
-Mini project due in 30 mins
+HTML-Git-CSS Mini-Project 1
+Mini project for week 1
